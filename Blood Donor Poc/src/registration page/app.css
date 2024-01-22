@@ -1,0 +1,367 @@
+@media screen and (min-width: 1100px) {
+    .container {
+      flex-direction: row;
+      justify-content: space-around;
+  
+    }
+   
+  }
+
+.container{
+     /* 
+   
+     /* background-color:#ebebeb;   */
+    margin-left: 80px;
+    width: 900px; 
+    height:900px; 
+
+}
+.container-box{
+
+    
+}
+
+.container-main-{
+  width: 1100px;
+  background-color:linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+.title{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+    position: relative;
+    top:10px;
+}
+.input-box1{
+    display: flex;
+    flex-direction:column ;
+    /* margin-left: 400px; */
+    
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+   
+}
+
+.input-2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    
+
+}
+.input-box-1{
+    position: relative;
+    top: 28px;
+}
+.radio{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    /* bottom: 10px; */
+    right: 75px;
+    top:10px;
+
+}
+.radio-1{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    /* bottom: 10px; */
+    left:50px;
+    top:10px;
+ 
+
+}
+.radio-2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    /* bottom: 10px; */
+    left:150px;
+    top:10px;
+
+}
+.male,.female{
+    position: relative;
+    top:24px;
+    left:30px;
+
+}
+ .label{
+    display: flex;
+    flex-direction:row;
+    margin-right: 30px;
+    margin-top: 30px;
+    text-decoration: solid;
+
+}
+
+.selectors{
+    margin-right: 450px;
+   
+    height: 30px;
+    width:200px;
+    /* margin-top: 30px; */
+    border-radius: 10px;
+    /* margin-top: 80px; */
+    /* background-color: aqua; */
+}
+.location{
+   margin-top: 10px;
+}
+
+.radio-butt{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+} 
+.label{
+    display: flex;
+    justify-content: start;
+    color:black;
+  
+
+}
+.college-name{
+    /* margin-top: 40px; */
+    margin-right: 500px;
+    height:30px;
+    width:350px;
+    border-radius: 10px;
+    background-color: rgb(196, 255, 255);
+    margin-top: 10px;
+}
+.college{
+    margin-top: 50px;
+}
+.button{
+    
+    position: relative;
+    right: 500px;
+    top: 20px;
+    width: 200px;
+    height:30px;
+   
+    border-radius: 20px;
+}
+.submit{
+    position: relative;
+    left:330px;
+    top:20px;
+    bottom:50px ;
+}
+.row-one,.row-two,.row-three,.row-four,.row-five{
+    display: flex;
+    flex-direction: row;
+
+} 
+.row-one{
+    gap:300px;
+}
+.row-two{
+    gap:300px;
+
+}
+.row-four{
+    position: relative;
+    bottom: 45px;
+    gap:300px;
+
+}
+.row-five{
+    position: relative;
+    bottom: 85px;
+    gap:300px;
+} 
+.row-three{
+    position: relative;
+    bottom: 95px;
+   gap: 300px;
+    
+    
+}
+.row-seven{
+    position: relative;
+    /* bottom: 10px; */
+    top: 10px;
+    width: 800px;
+
+   
+
+}
+.row-eight{
+    position: relative;
+    bottom: 50px;
+
+}
+.district{
+    position: relative;
+    left: 40px;
+}
+.country{
+    position: relative;
+    left: 28px;
+}
+.blood-1,.select-country,.select-state,.select-district,.select-city{
+     /* border: 1px solid black; 
+    border-top: 2px solid black; */
+       width:300px;
+       height:30px;
+
+       border-radius: 5px;
+}
+
+
+.gender{
+    position: relative;
+    left: 30px;
+    top:8px
+}
+
+.new-one{
+    display: flex;
+    flex-direction: row;
+}
+.label-fullname{
+    text-decoration: solid;
+    margin-left: 5x;
+    position: relative;
+    top: 30px;
+    left: 5px;
+}
+.label-email{
+    text-decoration: solid;
+    margin-left: 5px;
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+.label-password{
+    text-decoration: solid;
+    margin-left: 5px;
+    position: relative;
+    top: 30px;
+    left: px;
+    
+
+
+}
+.label-confirm{
+    text-decoration: solid;
+    margin-left: 5px;
+    position: relative;
+    top: 30px;
+    left: px;
+    
+
+}
+.label-mobiles{
+    text-decoration: solid;
+    margin-left: 5x;
+    position: relative;
+    top: 30px;
+    left: 5px;
+
+}
+.label-blood{
+
+    margin-top: 30px;
+    text-decoration: solid;
+}
+.label-country{
+    margin-top: 30px;
+    text-decoration: solid;
+
+}
+.label-state{
+    margin-top: 30px;
+    text-decoration: solid;
+}
+.label-district{
+    margin-top: 30px;
+    text-decoration: solid;
+}
+
+.firstName:active{
+    /* border: 2px solid blueviolet */
+}
+.firstName{
+     /* border: 1px solid black; */
+    height:30px;
+    width:300px;
+    border-radius: 10px;
+}
+.lastname{
+    /* border: 1px solid black;  */
+   
+    height:30px;
+    width:300px;
+    border-radius: 10px;
+}
+.no-spinners{
+    height:30px;
+    width:300px;
+    border-radius: 10px;
+
+}
+.no-spinners::-webkit-inner-spin-button,
+.no-spinners::-webkit-outer-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+.no-spinners {
+-moz-appearance: textfield;
+}
+.password{
+    /* border: 1px solid black; */
+    height:30px;
+    width:300px;
+    border-radius: 10px; 
+
+}
+.eyeicon{
+    position: relative;
+    left:280px;
+    bottom: 25px;
+}
+.confirm-password{
+    /* border: 1px solid black; */
+    height:30px;
+    width:300px;
+     border-radius: 10px; 
+
+}
+.blood-1{
+
+}
+.select-country{
+
+}
+.select-state{
+
+}
+.select-district{
+
+}
+.select-city{
+
+}
+
+.mobilenumber{
+    height:30px;
+    width:300px;
+   border-radius: 10px;
+}
+.paper-component{
+    height: 700px;
+    width: 600;
+    margin-left: 110px;
+    margin-right: 50px;
+    /* background-color:#ebebeb; */
+
+}

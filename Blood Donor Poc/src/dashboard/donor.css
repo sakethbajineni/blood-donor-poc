@@ -1,0 +1,154 @@
+.Accodian-1{
+    margin-top: 50px;
+    width: 1230px;
+    margin-left: 18px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    margin-left: 750px; 
+    position: relative;
+    top:70px;
+}
+.register{
+     margin-left: 40px; 
+    color: rgb(55, 55, 164)
+}
+.login{
+    color: rgb(55, 55, 164);
+}
+
+
+.blood,.country-one,.state,.district{
+    border: 1px solid black;
+    border-top: 2px solid black;
+    width: 110px;
+    border-radius: 10px;
+}
+.country{
+    position: relative;
+    right:50px;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+.blood{
+    margin-left: 3px;
+    
+
+}
+.state{
+    margin-left: 3px;
+
+}
+.district{
+    position: relative;
+    left: 3px;
+
+}
+.title-2{
+    margin-left: 450px;
+}
+
+
+.adding{
+    display: flex;
+    flex-direction: row;
+}
+
+.row-1,.row-2,.row-3,.row-4,row-5{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+
+
+.colon-1{
+    margin-left: 4px;
+}
+.colon-2{
+     margin-left: 3px; 
+ 
+}
+.colon-3{
+    margin-left: 4px;
+
+}
+.colon-4{
+margin-left: 3px;
+}
+.button-1{
+    /* color: brown; */
+    border: 1px solid black;
+    margin-left: 480px; 
+    margin-top: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color:#1e90ff
+    ;
+
+
+}
+.login-link{
+   position: relative;
+   right: 10px;
+}
+.appBar{
+    /* background-color: #7d32a8; */
+
+  background:linear-gradient(135deg, #3452eb, #9934eb);
+    height: 100px;
+    position: relative;
+    z-index: 1;
+}
+.donate-blood{
+    /* margin-right: 400px; */
+
+
+
+}
+.hcl{
+    
+    display: flex;
+    flex-direction: row;
+}
+.donate{
+    margin-left: 430px;
+}
+.table{
+    display: flex;
+    width: 400px;
+}
+.aaa{
+    color: blue;
+}
+.title-2{
+     margin-left: 450px;
+}
+
+.hcl-1{
+    font-size: 30px;
+}
+.donate{
+    font-size: 20px;
+    position: relative;
+    top:5px;
+    right: 50px;
+}
+
+.table-1{
+    color: violet;
+    position: relative;
+    top: 40px;
+    width: 500px;
+}
+.tablecell{
+    color: aqua;
+}
